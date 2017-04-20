@@ -1,0 +1,2 @@
+csc /target:Library /reference:Target\System.Numerics.Vectors.dll /out:Target\Strassens.dll Source\Library\*.cs
+csc /reference:Target\Strassens.dll /out:Target\Program.exe Source\AlgorithmTest\Client.cs

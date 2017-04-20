@@ -1,0 +1,8 @@
+E:\Projects\Strassens\1_strassens_cs\bin\Debug\netcoreapp1.1\1_strassens_cs.deps.json
+E:\Projects\Strassens\1_strassens_cs\bin\Debug\netcoreapp1.1\1_strassens_cs.runtimeconfig.json
+E:\Projects\Strassens\1_strassens_cs\bin\Debug\netcoreapp1.1\1_strassens_cs.runtimeconfig.dev.json
+E:\Projects\Strassens\1_strassens_cs\bin\Debug\netcoreapp1.1\1_strassens_cs.dll
+E:\Projects\Strassens\1_strassens_cs\bin\Debug\netcoreapp1.1\1_strassens_cs.pdb
+E:\Projects\Strassens\1_strassens_cs\obj\Debug\netcoreapp1.1\1_strassens_cs.AssemblyInfo.cs
+E:\Projects\Strassens\1_strassens_cs\obj\Debug\netcoreapp1.1\1_strassens_cs.dll
+E:\Projects\Strassens\1_strassens_cs\obj\Debug\netcoreapp1.1\1_strassens_cs.pdb
